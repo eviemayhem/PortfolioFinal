@@ -1,0 +1,58 @@
+container {
+}
+
+@media (min-width: 300px) {
+  .callout {
+  }
+}
+
+.software {
+  width: 100%;
+  padding-top: 0px;
+}
+
+.resume {
+  height: 100%;
+  width: 100%;
+}
+
+.resumeImg {
+  width: inherit;
+  height: inherit;
+}
+
+h2 {
+  padding-top: 50px;
+  margin-top: 10px;
+}
+
+#about {
+  height: 500px;
+  margin-bottom: 5px;
+  margin-top: 0px;
+}
+
+.headerBanner {
+  height: 75%;
+  width: inherit;
+}
+
+.headerContainer {
+  height: 110%;
+  width: 100%;
+}
+
+.banner {
+  height: inherit;
+  width: inherit;
+}
+
+#carousel-1 {
+  margin: 0;
+}
+
+.galleryItem {
+  padding: 2px;
+  margin: 1px;
+}
+
